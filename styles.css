@@ -1,0 +1,66 @@
+body{
+  margin:0px;
+  padding: 0px;
+  font-family: 'Baloo 2', cursive;
+  text-align:center;
+}
+body img{
+  z-index: -100;
+}
+
+
+.navbar {
+  font-family: 'Baloo 2', cursive;
+}
+
+section#content{
+  position: relative;
+  text-align:center;
+  padding:20px;
+  margin: 10px;
+
+}
+.back img{
+  height: 600px;
+  width: 100%;
+}
+.main{
+  position:absolute;
+  top: 100px;
+  right:30px;
+  color: #fff;
+}
+.bg1{
+    text-align:center;
+    margin: auto;
+    padding: auto;
+}
+#info{
+  position: relative;
+}
+.bg1 img{
+  width: 100%;
+  margin-top: 5px;
+  height: 300px;
+}
+#download{
+  position: absolute;
+  top: 20px;
+  color: #fff;
+  left: 50px;
+}
+.iconns{
+  position: absolute;
+  bottom: 45px;
+  right:40px;
+}
+.sm{
+  padding: 0;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+#contact{
+  text-align: center;
+}
